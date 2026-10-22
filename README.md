@@ -17,13 +17,13 @@ MetaTrader 4 (MT4) 上で動作する、金（XAUUSD）と銀（XAGUSD）の価�
 ## 📸 実運用・稼働イメージ
 
 ### 1. MT4稼働画面 ＆ リアルタイムダッシュボード（GUI操作パネル）
-<img width="1687" height="632" alt="MIDAS チャートUI・ダッシュボード画面" src="./assets/midas_dashboard_ui.png" />
+<img width="1682" height="631" alt="image" src="https://github.com/user-attachments/assets/9a336644-3898-4c9b-90e8-699caedd256b" />
 
 ### 2. Discordへのリアルタイム通知（エラー回避・JSON送信）
-<img width="1368" height="852" alt="Discord通知プレビュー" src="./assets/midas_discord_notify.png" />
+<img width="1232" height="111" alt="image" src="https://github.com/user-attachments/assets/e969db1b-a49f-44e1-9523-ea5cb505a0e0" />
 
 ### 3. 長期バックテスト（ストラテジーテスター検証結果）
-<img width="1687" height="632" alt="バックテスト検証結果" src="./assets/midas_backtest_result.png" />
+<img width="708" height="735" alt="image" src="https://github.com/user-attachments/assets/20d07980-bc55-45ff-ae8f-da6530188fde" />
 
 ## 🏗 システムアーキテクチャ
 
